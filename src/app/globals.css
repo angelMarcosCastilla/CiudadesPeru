@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+
+select{
+  background: transparent;
+}
+
+option{
+  color: black
+}
